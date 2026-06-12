@@ -1,0 +1,12 @@
+{
+  "name": "KOVR — Family. Covered.",
+  "short_name": "KOVR",
+  "description": "Your family's insurance, organized, understood, and ready for the day it matters.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F1EC",
+  "theme_color": "#0D1B4B",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
